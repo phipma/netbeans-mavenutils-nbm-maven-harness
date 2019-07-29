@@ -7,7 +7,7 @@
         <version>1-SNAPSHOT</version>
     </parent>
     <artifactId>nbm-maven-harness</artifactId>
-    <version>RELEASE110</version>
+    <version>RELEASE111</version>
     <name>Apache NetBeans Maven Utilities - NBM Harness for Maven</name>
     <url>http://bits.netbeans.org/mavenutilities/nbm-maven-harness</url>
     <issueManagement>
